@@ -1,0 +1,8 @@
+main: coolguy1842.transparency.Transparency
+name: Transparency
+version: "1.0"
+description: shows op command usage to discord
+load: POSTWORLD
+author: coolguy1842
+api-version: "1.20"
+depend: [DiscordRelayPlugin]
