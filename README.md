@@ -1,4 +1,3 @@
-# NOTE: The way this plugin works is a bit unconventional.<br><br><br>!!!VERY WIP!!!<br>Factions
+# Small little plugin for full command transparency on my server
 
-Working on this plugin for my private minecraft server.
-###### I have tried to make the code readable and easy to navigate
+### NOTE uses my [DiscordRelayPlugin](https://github.com/coolguy1842/DiscordRelayPlugin)
